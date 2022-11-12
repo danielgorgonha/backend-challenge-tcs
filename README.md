@@ -171,19 +171,19 @@
 
 ### Funcionalidades do desafio 1 - Criando um ORM
 
-#### ● 
-  ○ Criação de varias tabelas com Map()
-  ○ CRUD para criar, pegar, deletar e atualizar
-  ○ No exemplo 2 do desafio 1 foi utilizado os quatro pilares da programação orientada a objeto:
-    ■ Abstração
-    ■ Encapsulamento
-    ■ Herança
-    ■ Polimorfismo
+#### ● Funcionalidades 
+  - Criação de varias tabelas com Map()
+  - CRUD para criar, pegar, deletar e atualizar
+  - No exemplo 2 do desafio 1 foi utilizado os quatro pilares da programação orientada a objeto:
+    - Abstração
+    - Encapsulamento
+    - Herança
+    - Polimorfismo
   
 ### Regras de negócio
-  ● Validação realizada a partir do schema da tabela.
-  <br>
+  - Validação realizada a partir do schema da tabela.
 </p>
+<br/>
 
 <h1 align="center">:pushpin: Algumas das tecnologias utilizadas</h1>
 <p align="center">
