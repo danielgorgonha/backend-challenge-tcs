@@ -171,7 +171,7 @@
 
 ### Funcionalidades do desafio 1 - Criando um ORM
 
-#### ● Funcionalidades 
+#### Funcionalidades 
   - Criação de varias tabelas com Map()
   - CRUD para criar, pegar, deletar e atualizar
   - No exemplo 2 do desafio 1 foi utilizado os quatro pilares da programação orientada a objeto:
